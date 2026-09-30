@@ -79,23 +79,6 @@
 
 ---
 
-## 📄 My Resumes / 我的简历
-
-> 全部简历 PDF 存放在 [Akun-python/resume](https://github.com/Akun-python/resume) 仓库，点击直达。
-
-| 方向 | 简历 |
-|------|------|
-| 🎯 算法（综合） | [sun_guangpeng_algorithm.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_algorithm.pdf) |
-| 🏥 医疗 AI | [sun_guangpeng_medical.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_medical.pdf) |
-| 👁️ 计算机视觉 | [sun_guangpeng_cv.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_cv.pdf) |
-| 🤖 大模型 / 语音 | [sun_guangpeng_llm.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_llm.pdf) |
-| 📈 时序预测 | [sun_guangpeng_ts.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_ts.pdf) |
-| 🚁 优化算法 | [sun_guangpeng_opt.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_opt.pdf) |
-| 📱 产品 | [sun_guangpeng_product.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_product.pdf) |
-| 🧩 智能体 | [sun_guangpeng_agent.pdf](https://github.com/Akun-python/resume/blob/main/sun_guangpeng_agent.pdf) |
-
----
-
 ## ⚡ Technologies / 技术栈
 
 ### Languages
