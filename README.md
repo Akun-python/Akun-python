@@ -69,13 +69,16 @@
 
 | 项目 | 说明 |
 |------|------|
-| **[mountain-flood-uav-optimization](https://github.com/Akun-python/mountain-flood-uav-optimization)** ⭐ 100+ | 山区洪涝灾害下无人机运输与通信协同优化（组批 / 调度 / 中继 / 分区四级模型） |
-| **[llm-compute-allocation-modeling](https://github.com/Akun-python/llm-compute-allocation-modeling)** | 算力约束下大语言模型资源配置建模（广义标度律 + 多类开销联合优化） |
+| **[autumn-recruitment](https://github.com/Akun-python/autumn-recruitment)** ⭐ 200 | 秋招算法准备仓库：LeetCode 分类题解 / 企业笔试 / 面试经验 / CS 基础八股（23 模块 · 232 篇教学 Notebook） |
+| **[mountain-flood-uav-optimization](https://github.com/Akun-python/mountain-flood-uav-optimization)** ⭐ 99 | 山区洪涝灾害下无人机运输与通信协同优化（组批 / 调度 / 中继 / 分区四级模型） |
+| **[llm-compute-allocation-modeling](https://github.com/Akun-python/llm-compute-allocation-modeling)** ⭐ 11 | 算力约束下大语言模型资源配置建模（广义标度律 + 多类开销联合优化） |
 | **[multiscale-eeg-brain-model](https://github.com/Akun-python/multiscale-eeg-brain-model)** | 视觉认知脑电多尺度计算模型（P300 / Wilson-Cowan / 漂移扩散） |
+| **[time-series-llm](https://github.com/Akun-python/time-series-llm)** | 工业故障诊断时序基础模型（领域预训练 / 迁移学习 / 监督微调） |
 | **[agentorch](https://github.com/Akun-python/agentorch)** | 多智能体架构的 AI 智能体设计框架 |
 | **[Aireviewer](https://github.com/Akun-python/Aireviewer)** | Word 文档 AI 校稿工具 |
 | **[Paper2slides](https://github.com/Akun-python/Paper2slides)** | 论文 / 文档自动转演示文稿 |
 | **[Ai4resume](https://github.com/Akun-python/Ai4resume)** | 基于经历自动生成简历 |
+| **[dsh-plugin-browser-live](https://github.com/Akun-python/dsh-plugin-browser-live)** | DeepSeek Harness 浏览器实时镜像面板（TypeScript 插件） |
 
 ---
 
